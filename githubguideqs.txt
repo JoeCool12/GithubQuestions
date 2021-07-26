@@ -1,0 +1,35 @@
+-New to github?
+-What are all of these options?:
+
+        -Repositories
+        -Codespaces
+        -Projects
+        -Stars
+        -Gists
+
+-What are all of these features?
+
+-Star: Think of it as a bookmark.
+
+-Repositories: A repository contains all of your 
+project's files and each file's revision history.
+A repository is a single code base. In most cases
+that's just one dedicated software project.
+
+-Projects:  A GitHub Project is just a collection of issues 
+(tickets) and a workflow. You can have multiple projects. 
+You might for example have a project for bugs and a project 
+for features, or you might create a project for a release 
+and delete it once the release is complete.
+
+-Gists:  Gists are a particular service offered on that site,
+namely code snippets akin to pastebin. However, everything 
+is driven by git revision control, so gists also have complete 
+revision histories. 
+
+ -Code Spaces: A codespace is a development environment that's 
+ hosted in the cloud. You can customize your project for Codespaces
+ by committing configuration files to your repository
+(often known as Configuration-as-Code), which creates a 
+repeatable codespace configuration for all users of your
+project.
