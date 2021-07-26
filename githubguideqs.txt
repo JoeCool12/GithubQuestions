@@ -6,6 +6,7 @@
         -Projects
         -Stars
         -Gists
+        -Fork
 
 -What are all of these features?
 
@@ -33,3 +34,6 @@ revision histories.
 (often known as Configuration-as-Code), which creates a 
 repeatable codespace configuration for all users of your
 project.
+
+-Fork: A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+
